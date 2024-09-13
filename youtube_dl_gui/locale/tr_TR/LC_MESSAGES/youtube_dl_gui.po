@@ -115,7 +115,7 @@ msgstr "Aşağı"
 
 #: youtube_dl_gui/mainframe.py:255
 msgid "Reload"
-msgstr "Yenile"
+msgstr "Yeniden Yükle"
 
 #: youtube_dl_gui/mainframe.py:256 youtube_dl_gui/mainframe.py:692
 #: youtube_dl_gui/mainframe.py:950
@@ -459,7 +459,7 @@ msgstr "İndirme tamamlandığında beni bilgilendir"
 
 #: youtube_dl_gui/optionsframe.py:380
 msgid "Shutdown on download completion"
-msgstr "İndirme tamamlandığında kapatma"
+msgstr "İndirme tamamlandığında kapat"
 
 #: youtube_dl_gui/optionsframe.py:392
 msgid "SUDO password"
